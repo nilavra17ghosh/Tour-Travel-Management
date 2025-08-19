@@ -1,4 +1,4 @@
-# Tour and Travel Management System
+# Tour-Travel Management
 
 ## Introduction
 The Tour and Travel Management System is a database management project aimed at automating and optimizing the operations of a tour and travel agency. This system handles tasks such as booking travel packages, assigning tour guides, and managing hotel and transportation logistics. The project is implemented using `pymysql` and SQL.
@@ -31,6 +31,6 @@ The Tour and Travel Management System is a database management project aimed at 
 ### Deployment
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yaryaja/Tour-and-Travel-Management-System.git
-   cd Tour_Travel_Management_System
-# Tour-and-Travel-Management-System
+   git clone https://github.com/yaryaja/Tour-Travel-Management.git
+   cd Tour-Travel-Management
+# Tour-Travel-Management
